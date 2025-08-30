@@ -3,3 +3,4 @@ storefront/.env.local.template
 backend/.env.template
 storefront/package-lock.json
 *.template
+storefront/.env.local.template
